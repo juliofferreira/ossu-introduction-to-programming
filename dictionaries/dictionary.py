@@ -1,4 +1,4 @@
-# Use the file name mbox-short.txt as the file name
+# Use mbox-short.txt as the file name
 name = input("Enter file:")
 if len(name) < 1:
     name = "mbox-short.txt"
