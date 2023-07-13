@@ -1,6 +1,9 @@
 # ossu-introduction-to-programming
 
-Open Source Society University - Python for Everybody Course
+Open Source Society University - Introduction to Programming
+
+Course: Python for Everybody <br/>
+https://www.py4e.com/lessons
 
 To install dependencies run the following command in the root file:
 
